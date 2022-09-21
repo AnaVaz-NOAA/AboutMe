@@ -2,7 +2,7 @@
 title: "AboutMe"
 ---
 
-This is a Quarto website.
+This is a Quarto websi
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
